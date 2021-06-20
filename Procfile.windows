@@ -1,0 +1,2 @@
+web: venv/Script/activate
+web: python main.py
